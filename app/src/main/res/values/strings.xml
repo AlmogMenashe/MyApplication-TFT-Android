@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TFT</string>
+    <string name="create">Created By Maxim Dostra &amp; Almog Menashe</string>
+    <string name="abs">Lie on your back on a mattress,\nLift your knees up and Lift your torso toward your knees.</string>
+    <string name="absDuration">▪ Exercise duration: 1 min\n▪ Duration of rest: 30 sec\n▪ Number of repetitions: 3</string>
+    <string name="biceps">A column with a space in the legs, Hold the bottles / weights, Snap the arms to the body, And lift the bottles / weights upwards.</string>
+    <string name="back">Hold the pole and lift yourself up.</string>
+    <string name="chest">Lie on your stomach and lift yourself with your hands.</string>
+    <string name="leg">Put the chair in front of you and go up and down from it.</string>
+    <string name="shoulder">Hold the bottles / weights and lift upwards.</string>
+    <string name="duration">▪ Number of repetitions: 10\n▪ Duration of rest: 45 sec\n▪ Number of sets: 3</string>
+    <string name="textTraining">Complete the hearts according to the next workout</string>
+    <string-array name="sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Morning: 06:00 - 12:00</item>
+        <item>Noon: 12:00 - 18:00</item>
+        <item>Evening: 18:00 - 00:00</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

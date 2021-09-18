@@ -1,0 +1,2 @@
+rootProject.name='TFT-Android'
+include ':app'

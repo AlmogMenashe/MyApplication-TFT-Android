@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43964628158",
+    "firebase_url": "https://ftf-time-for-training-default-rtdb.firebaseio.com",
+    "project_id": "ftf-time-for-training",
+    "storage_bucket": "ftf-time-for-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43964628158:android:958bc2d03ad6d6ae2ff2ef",
+        "android_client_info": {
+          "package_name": "com.example.tft_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43964628158-9po4loasde59heh6lcg3htvc0klm14tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tft_android",
+            "certificate_hash": "2642ce0161ccbf92c94841c7edf1b696821b63d9"
+          }
+        },
+        {
+          "client_id": "43964628158-dp6jcs6u0tr95vnsfj5j7en33lsuihiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2tHYMSlzEYrHSpibwcP8gx0NxsQpRqiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43964628158-dp6jcs6u0tr95vnsfj5j7en33lsuihiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
